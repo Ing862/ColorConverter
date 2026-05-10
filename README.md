@@ -10,7 +10,7 @@
 - [Technologies Used](#technologies-used)
 
 ## About
-An android mobile app for converting between two color models: RGB and CMYK. Aplikacja zrealizowana na potrzeby zajęć Grafika Komputerowa.
+An android mobile app for converting between two color models: RGB and CMYK. Assignment for "Grafika Komputerowa" class.
 
 ## Usage
 The user can enter values of a color model in two ways - either thrpugh text fields or by using the slider put below each letter of the color model. when one value in changed, the remaining ones are recalculated and updated in the interface. The field below displays the color corresponding to the color models. 
